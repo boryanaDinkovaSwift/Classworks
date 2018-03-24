@@ -1,0 +1,37 @@
+html{
+    background-color: darkslategray;
+    color: white;
+    line-height: 24px;
+}
+
+body {
+    width: 80%;
+    text-align: justify;
+}
+
+h1 {
+    color:orangered;
+}
+
+span {
+    color:gold;
+    font-style: italic;
+}
+
+#articleMainKeyWord {
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+figure {
+    text-align: center;
+}
+
+#kaplerTelescope {
+    width: 300px;
+    height: 200px;
+}
+
+
